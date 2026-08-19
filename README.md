@@ -7,6 +7,11 @@
 - 🔭 Observability nerd: OpenTelemetry end to end. I've watched hundreds of prod setups fail in the same few ways
 - 🤖 Currently building AI agents that do the boring parts: instrumentation audits, oversized queries, weekly status briefs
 
+## 📦 Out in the open
+
+- [**claude-task**](https://github.com/iagobanov/claude-task) — run several Claude Code sessions at once without them fighting over your repo. One task, one worktree, one branch, one notes file.
+- [**observability-copilot**](https://github.com/iagobanov/observability-copilot) — scans a repo for observability gaps, suggests OpenTelemetry instrumentation. Web app or GitHub Action.
+
 ## 🛠 Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
