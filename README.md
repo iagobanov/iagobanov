@@ -1,20 +1,11 @@
 # Hey, I'm Iago 👋
 
-- 💼 Forward Deployed Engineer **@ Tsuga** · DevOps Engineer **@ The New York Times**
+**Forward Deployed Engineer | Platform Engineer**
+
 - ☁️ AWS since the ECS days: EKS, Lambda, Terraform/OpenTofu, and more IAM policies than I'd like to admit
 - 🚢 Platform & GitOps: Kubernetes in production, Flux, Argo, and CI/CD pipelines people actually trust
-- 🔭 Observability nerd: OpenTelemetry end to end. From the vendor side I've watched hundreds of prod setups fail in the same few ways
+- 🔭 Observability nerd: OpenTelemetry end to end. I've watched hundreds of prod setups fail in the same few ways
 - 🤖 Currently building AI agents that do the boring parts: instrumentation audits, oversized queries, weekly status briefs
-- 💬 Talk to me about OpenTelemetry, EKS, or why most dashboards are write-only
-
-## Public stuff
-
-| Project | What it is |
-|---|---|
-| [observability-copilot](https://github.com/iagobanov/observability-copilot) | Scans a repo, reports observability gaps, suggests OpenTelemetry instrumentation. Web app or GitHub Action. |
-| [tam-central-hub](https://github.com/iagobanov/tam-central-hub) | TAM-OS. One Claude agent per customer, pulling context from Slack, Jira and Notion to draft weekly briefs. |
-| [cx-dataprime-batch](https://github.com/iagobanov/cx-dataprime-batch) | Splits oversized Coralogix DataPrime queries into time chunks, runs them in parallel, retries whatever hits the scan limit. |
-| [cx-centralized-observability-gateway](https://github.com/iagobanov/cx-centralized-observability-gateway) | OpenTelemetry gateway for Kubernetes fleets. Tail sampling and routing in one place. |
 
 ## 🛠 Stack
 
@@ -28,4 +19,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20agents-d97757?style=flat-square&logo=anthropic&logoColor=white)
 
-Most of my recent work lives in private repos. The public stuff above is representative.
+## 📫 Talk to me
+
+About OpenTelemetry, EKS, AI agents, or why most dashboards are write-only.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square)](https://www.linkedin.com/in/iagobanov)
+[![Email](https://img.shields.io/badge/Email-iagobanov%40outlook.com-0078d4?style=flat-square)](mailto:iagobanov@outlook.com)
