@@ -5,7 +5,6 @@
 - ☁️ AWS since the ECS days: EKS, Lambda, Terraform/OpenTofu, and more IAM policies than I'd like to admit
 - 🚢 Platform & GitOps: Kubernetes in production, Flux, Argo, and CI/CD pipelines people actually trust
 - 🔭 Observability nerd: OpenTelemetry end to end. I've watched hundreds of prod setups fail in the same few ways
-- 🤖 Currently building AI agents that do the boring parts: instrumentation audits, oversized queries, weekly status briefs
 
 ## 📦 Out in the open
 
