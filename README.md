@@ -2,14 +2,14 @@
 
 **Forward Deployed Engineer | Platform Engineer**
 
-- ☁️ AWS since the ECS days: EKS, Lambda, Terraform/OpenTofu, and more IAM policies than I'd like to admit
-- 🚢 Platform & GitOps: Kubernetes in production, Flux, Argo, and CI/CD pipelines people actually trust
-- 🔭 Observability nerd: OpenTelemetry end to end. I've watched hundreds of prod setups fail in the same few ways
+- ☁️ AWS since the ECS daysand more IAM policies than I'd like to admit
+- 🚢 Platform & GitOps
+- 🔭 Observability nerd
 
 ## 📦 Out in the open
 
-- [**claude-task**](https://github.com/iagobanov/claude-task) — run several Claude Code sessions at once without them fighting over your repo. One task, one worktree, one branch, one notes file.
-- [**observability-copilot**](https://github.com/iagobanov/observability-copilot) — scans a repo for observability gaps, suggests OpenTelemetry instrumentation. Web app or GitHub Action.
+- [**claude-task**](https://github.com/iagobanov/claude-task) —> run several Claude Code sessions at once without them fighting over your repo. One task, one worktree, one branch, one notes file.
+- [**observability-copilot**](https://github.com/iagobanov/observability-copilot) —> scans a repo for observability gaps, suggests OpenTelemetry instrumentation. Web app or GitHub Action.
 
 ## 🛠 Stack
 
