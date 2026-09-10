@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer | Platform Engineer**
 
-- ☁️ AWS since the ECS daysand more IAM policies than I'd like to admit
+- ☁️ AWS since the ECS day and more IAM policies than I'd like to admit
 - 🚢 Platform & GitOps
 - 🔭 Observability nerd
 
